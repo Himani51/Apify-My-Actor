@@ -1,0 +1,17 @@
+{
+  "name": "my-actor",
+  "title": "My First Actor",
+  "description": "A simple Actor built from scratch",
+  "version": "0.0.1",
+  "input": {
+    "schema": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string",
+          "title": "Target URL"
+        }
+      }
+    }
+  }
+}
